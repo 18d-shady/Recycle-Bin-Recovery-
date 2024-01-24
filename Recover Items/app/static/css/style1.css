@@ -1,0 +1,20 @@
+body{
+	background-color: #f8f9fa;
+}
+
+#info {
+	font-style: sans-serif;
+	font-size: 13px;
+	margin: auto;
+	margin-top: 3vh;
+	margin-left: 3vh;
+}
+/*
+.btn {
+	display: block;
+	margin: auto;
+	margin-top: 2vh;
+
+}
+*/
+
